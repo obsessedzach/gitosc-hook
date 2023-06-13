@@ -1,0 +1,2 @@
+# gitosc-hook
+gitosc-hook
